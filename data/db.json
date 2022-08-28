@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": 23,
+      "console": "ps5",
+      "title": "Call of duty MWII",
+      "year": 2019,
+      "price": 60
+    },
+    {
+      "id": 24,
+      "console": "ps5",
+      "title": "FIFA 22",
+      "year": 2021,
+      "price": 30
+    },
+    {
+      "id": 29,
+      "console": "ps5",
+      "title": "Madden NFL 23",
+      "year": 2022,
+      "price": 58
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.nav-container{
+    font-size: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0.60em 0.60em;
+    padding: 0.25em;
+    background-color: lavender;
+}
+.nav-links{
+    text-decoration: none;
+    color: inherit;
+}
+
